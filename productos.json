@@ -1,0 +1,90 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Ficus Green",
+        "precio": 150,
+        "categoria": "Pequeño de 5cm a 25cm",
+        "maceta": "Cerámica",
+        "Tamanno": "25cm",
+        "imagen": "img/FG1.jpg",
+        "imagen2": "img/FG2.jpg",
+        "imagen3": "img/FG3.jpg"
+    },
+    {
+        "codigo": "P002",
+        "nombre": "Buxus",
+        "precio": 100,
+        "categoria": "Pequeño de 5cm a 25cm",
+        "maceta": "Cerámica",
+        "Tamanno": "15cm",
+        "imagen": "img/Buxus1.jpg",
+        "imagen2": "img/buxus2.jpg",
+        "imagen3": "img/buxus3.jpg"
+    },
+    {
+        "codigo": "P003",
+        "nombre": "Jaboticaba",
+        "precio": 1000,
+        "categoria": "Mediano de 25cm a 50cm",
+        "maceta": "Cerámica",
+        "Tamanno": "35cm",
+        "imagen": "img/jabo1.jpg",
+        "imagen2": "img/jabo2.jpg",
+        "imagen3": "img/jabo3.jpg"
+    },
+    {
+        "codigo": "P004",
+        "nombre": "Cocobolo",
+        "precio": 0,
+        "categoria": "Agotados<br/><br/>",
+        "maceta": "Cerámica",
+        "Tamanno": "40cm",
+        "imagen": "img/Cocobolo1.jpg",
+        "imagen2": "img/Cocobolo2.jpg",
+        "imagen3": "img/Cocobolo3.jpg"
+    },
+    {
+        "codigo": "P005",
+        "nombre": "Neea Buxifolia",
+        "precio": 500,
+        "categoria": "Mediano de 25cm a 50cm",
+        "maceta": "Entrenamiento",
+        "Tamanno": "35cm",
+        "imagen": "img/Neea1.jpg",
+        "imagen2": "img/Neaa2.jpg",
+        "imagen3": "img/Neea3.jpg"
+    },
+    {
+        "codigo": "P006",
+        "nombre": "Ficus Tiger Bark",
+        "precio": 600,
+        "categoria": "Mediano de 25cm a 50cm",
+        "maceta": "Cerámica",
+        "Tamanno": "30cm",
+        "imagen": "img/Tiger1.jpg",
+        "imagen2": "img/Tiger2.jpg",
+        "imagen3": "img/Tiger3.jpg"
+    },
+    {
+        "codigo": "P007",
+        "nombre": "Azalea Red Formosa",
+        "precio": 150,
+        "categoria": "Pequeño de 5cm a 25cm",
+        "maceta": "Cerámica",
+        "Tamanno": "30cm",
+        "imagen": "img/Aza1.jpg",
+        "imagen2": "img/Aza2.jpg",
+        "imagen3": "img/Aza3.jpg"
+    },
+    {
+        "codigo": "P008",
+        "nombre": "Manzano de flor",
+        "precio": 0,
+        "categoria": "Agotados<br/><br/>",
+        "maceta": "Cerámica",
+        "Tamanno": "25cm",
+        "imagen": "img/Manzano.jpg",
+        "imagen2": "img/Manzano2.jpg",
+        "imagen3": "img/Manzano3.jpg"
+    }
+]
